@@ -1,0 +1,1 @@
+Namespace(sh_degree=3, source_path='/data/gaussian-opacity-fields/TNT_GOF/TrainingSet/Caterpillar', model_path='exp_TNT/Caterpillar', images='images', resolution=2, white_background=False, data_device='cuda', eval=False, kernel_size=0.0, ray_jitter=False, resample_gt_image=False, load_allres=False, sample_more_highres=False, use_decoupled_appearance=True)
